@@ -1,1 +1,1 @@
-https://olist-riesgo-resenas.streamlit.app
+https://isaac-perez-olist-riesgo.streamlit.app

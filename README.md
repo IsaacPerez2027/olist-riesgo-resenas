@@ -8,8 +8,8 @@ Proyecto final: riesgo de mala reseña de un pedido, segmentación de vendedores
 
 | Qué | Enlace |
 |---|---|
-| App (Streamlit Community Cloud) | _(link de tu app)_ |
-| API (Render) | _(link de tu API)_ |
+| App (Streamlit Community Cloud) | https://isaac-perez-olist-riesgo.streamlit.app |
+| API (Render) | https://olist-riesgo-resenas.onrender.com |
 
 ## Estructura
 
