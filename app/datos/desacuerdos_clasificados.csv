@@ -1,0 +1,15 @@
+caso,estrellas,sentimiento_modelo,comentario,quien_se_equivoca,explicacion
+1337,5,negative,"Só uma sugestão, saiam por favor da logística doa correios, pois o serviço que eles prestam é um lixo. Quanto a loja nota 10 o produto e o que eu esperava",Mixto,Elogia a la tienda («nota 10») y critica a Correios. El cliente calificó la tienda; el modelo se quedó con lo negativo.
+1230,5,negative,Cobraram 2 fretes para mesmo produto pois tinha comprado 2 unidades achei isso muita sacanagem !!!,Cliente,Se queja de que le cobraron dos fletes y aun así puso 5 estrellas. El modelo acierta: el texto es negativo.
+150,5,negative,"Comprei e não recebi, tá se tornando rotina, vocês vão perder seus clientes",Cliente,«Compré y no recibí»: es una queja clara. Probablemente marcó 5 estrellas por error. El modelo acierta.
+560,5,negative,pena que o prazo foi longo,Mixto,"Queja leve («lástima que el plazo fue largo»). Las estrellas reflejan el producto y el texto, el plazo: ambos tienen parte de razón."
+777,5,negative,"Loja boa, pena q aconteceu esse emprego São.",Modelo,"«Tienda buena, lástima que…»: frase confusa y coloquial. Los elogios pesan más que el lamento, pero el modelo se fue al negativo."
+602,1,positive,Superou as expectativas...,Cliente,«Superó las expectativas» con 1 estrella: estrellas probablemente invertidas. El modelo acierta.
+458,1,positive,Produto ...bom..como eu esperava..com o no anúncio,Cliente,"«Producto bueno, como esperaba y como el anuncio» con 1 estrella: error del cliente al calificar."
+948,1,positive,Espero mais dedicação nas proximas entregas,Modelo,Queja cortés («espero más dedicación en las próximas entregas»): el modelo la leyó como positiva; las estrellas tienen razón.
+662,1,positive,"preço bom, entrega no prazo",Cliente,"«Buen precio, entrega a tiempo» con 1 estrella: texto positivo con calificación contradictoria."
+103,1,positive,Estou no aguardo do meu produto!!,Modelo,«Estoy esperando mi producto»: es un reclamo por falta de entrega; los signos de exclamación engañaron al modelo.
+1378,5,neutral,Dentro do prazo e informacoes do encaminhamento do produto de forma clara,Modelo,"«Dentro del plazo y con información clara»: es un elogio, pero sin adjetivos; el modelo lo vio neutro."
+8,1,neutral,Há como me atualizar quando será entregue este produto?,Ninguno,Es una pregunta («¿me pueden actualizar cuándo llegará?»): el texto es neutro y la molestia solo se ve en las estrellas.
+1075,1,neutral,Já passou o prazo de entrega era dia 12/02,Modelo,"«Ya pasó el plazo de entrega»: es un hecho, pero implica una queja. El modelo no entiende la queja implícita."
+819,1,neutral,O pedido realizado foi de 2 kits de pinceis e o que foi entregue foi 1 kit de pincel e 1 kit de tesoura,Modelo,Pidió 2 kits de pinceles y recibió 1 de pinceles y 1 de tijeras: queja descrita sin palabras negativas; el modelo la vio neutra.

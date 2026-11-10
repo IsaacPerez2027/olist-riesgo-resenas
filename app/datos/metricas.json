@@ -1,0 +1,63 @@
+{
+  "n_train": 56882,
+  "n_val": 20422,
+  "azar": 0.14641073352267162,
+  "regla_retraso": 0.6214495592556317,
+  "tasa_train": 0.1315002988643156,
+  "regresion_logistica": {
+    "precision_10": 0.6116552399608227,
+    "auc": 0.7880340771824699
+  },
+  "xgboost": {
+    "precision_10": 0.6684622918707149,
+    "auc": 0.7917653460134056
+  },
+  "por_mes": {
+    "2018-03": {
+      "pedidos": 6948,
+      "tasa_mala_resena": 0.21171560161197467,
+      "tasa_entrega_tarde": 0.21056419113413932,
+      "regla_retraso": 0.8256484149855908,
+      "xgboost": 0.8285302593659942,
+      "regresion_logistica": 0.7377521613832853
+    },
+    "2018-04": {
+      "pedidos": 6752,
+      "tasa_mala_resena": 0.1178909952606635,
+      "tasa_entrega_tarde": 0.0519845971563981,
+      "regla_retraso": 0.34814814814814815,
+      "xgboost": 0.4666666666666667,
+      "regresion_logistica": 0.4622222222222222
+    },
+    "2018-05": {
+      "pedidos": 6722,
+      "tasa_mala_resena": 0.10755727462064861,
+      "tasa_entrega_tarde": 0.08182088664088069,
+      "regla_retraso": 0.3318452380952381,
+      "xgboost": 0.43154761904761907,
+      "regresion_logistica": 0.39732142857142855
+    }
+  },
+  "modelo_elegido": "xgboost",
+  "top_variables": {
+    "entrego_tarde": 0.5225191116333008,
+    "dias_retraso": 0.10242525488138199,
+    "n_items": 0.05895557999610901,
+    "n_vendedores": 0.0428299717605114,
+    "dias_transporte": 0.012837812304496765,
+    "dias_despacho": 0.008377176709473133,
+    "flete_total": 0.006954199634492397,
+    "mismo_estado": 0.006729125510901213,
+    "estado_cliente_RJ": 0.0060126567259430885,
+    "categoria_moveis_escritorio": 0.005539448466151953,
+    "estado_cliente_SP": 0.005429802928119898,
+    "categoria_bebes": 0.005412542726844549
+  },
+  "umbral": 0.32900890707969666,
+  "versiones": {
+    "pandas": "3.1.0",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "umbral": 0.32900890707969666,
+  "regla": "percentil 90 de las probabilidades fuera de muestra (validaci\u00f3n por fecha): el 10% de mayor riesgo"
+}

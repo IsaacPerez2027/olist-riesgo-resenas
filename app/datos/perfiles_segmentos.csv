@@ -1,0 +1,5 @@
+vendedores,n_pedidos,ventas_total,ticket_promedio,flete_relativo,tasa_retraso,n_categorias,dias_despacho,calificacion_promedio,nombre_segmento,accion
+357,23.0,3894.63,156.31,0.14,0.05,2.0,2.39,4.28,Pequeños de ticket alto y buen servicio,"Impulsarlos: más visibilidad y publicidad, porque cumplen bien y cada venta deja más dinero."
+244,22.0,1217.9,53.33,0.35,0.06,2.0,2.45,4.19,Ticket bajo y flete pesado,"Combos o envío agrupado para bajar el flete relativo, y mínimo de compra para que el envío no coma el precio."
+242,123.5,12566.53,108.15,0.21,0.07,4.0,2.86,4.1,Grandes de volumen,"Cuentas clave: gestor asignado, condiciones de flete por volumen y vigilancia de la calidad para no perder a los que más venden."
+162,22.5,3462.52,132.87,0.19,0.17,2.0,5.08,3.62,En riesgo: lentos y con quejas,"Plan de mejora: meta de despacho en 3 días, aviso de retraso al cliente y revisión mensual; si no mejoran, menos visibilidad en el sitio."
